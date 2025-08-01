@@ -30,6 +30,22 @@ A clean, professional insurance calculator web application for Madus Bancore Nid
 - **Font Awesome**: Professional icons
 - **Google Fonts**: Inter font family for clean typography
 
+## 🚀 Development Methodology
+
+This project was built using **Vibe Coding** - an innovative development approach that leverages Large Language Models (LLMs) for rapid, high-quality software development.
+
+### 🤖 Built with AI-Assisted Development
+- **Cursor IDE**: Modern AI-powered code editor
+- **Large Language Model**: Advanced AI assistance for code generation and optimization
+- **Vibe Coding**: Collaborative development methodology combining human creativity with AI capabilities
+- **Rapid Prototyping**: From concept to deployment in record time
+
+### 💡 Vibe Coding Benefits
+- **Faster Development**: AI-assisted coding accelerates the development process
+- **Higher Quality**: LLM suggestions improve code quality and best practices
+- **Creative Collaboration**: Human-AI partnership for innovative solutions
+- **Modern Workflow**: Leveraging cutting-edge development tools and methodologies
+
 ## 📱 Responsive Design
 
 The calculator is fully responsive and works on:
@@ -106,4 +122,10 @@ For technical support or questions about the calculator, please contact the deve
 
 ---
 
-**Built with ❤️ for Madus Bancore Nidhi Limited** 
+**Built with ❤️ for Madus Bancore Nidhi Limited**
+
+### 🙏 Special Thanks
+
+This project was developed using **Vibe Coding** methodology with the assistance of Large Language Models in **Cursor IDE**. This modern development approach demonstrates the power of human-AI collaboration in creating professional, high-quality software solutions.
+
+**Vibe Coding** represents the future of software development - where human creativity meets AI capabilities to deliver exceptional results faster than ever before. 
